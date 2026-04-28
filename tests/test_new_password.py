@@ -18,3 +18,8 @@ def test_password_randomness():
     password1 = generate_password(10)
     password2 = generate_password(10)
     assert password1 != password2, "Arka arkaya oluşturulan iki şifre aynı olmamalıdır."
+
+def test_password_not_empty():
+    """Üretilen şifrenin boş olmaması gerektiğini test et"""
+    password = generate_password(10)
+    assert password != ""
