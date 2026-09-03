@@ -23,7 +23,3 @@ Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştıra
 ```bash
 pytest
 ```
-
-## ✍️ Yazar
-
-Kodland
