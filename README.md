@@ -1,6 +1,6 @@
 # Rastgele Şifre Üretici
 
-Bu uygulama, belirlenen karakter sayısına göre rastgele şifreler üretmek için tasarlanmıştır. Şifreler büyük ve küçük harfler, sayılar ve özel karakterler içerebilir.
+Bu uygulama, belirlenen karakter sayısına göre rastgele şifreler üretmek için tasarlanmıştır. Şifreler belli uzunluklar, büyük ve küçük harfler, sayılar ve özel karakterler içerebilir.
 
 ## Özellikler
 
